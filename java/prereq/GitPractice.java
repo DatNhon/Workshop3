@@ -18,10 +18,12 @@ public class GitPractice {
 
    public static void groupMember1() {
       // TODO: Group Member 1, place your code here
+      System.out.println("I'm Nhon, first member");
    }
 
    public static void groupMember2() {
       // TODO: Group Member 2, place your code here
+      System.out.println("I am Zon, second member");
    }
 
    public static void groupMember3() {
