@@ -26,6 +26,7 @@ public class GitPractice {
 
    public static void groupMember3() {
       // TODO: Group Member 3 (if you have a group of 3), place your code here
+      System.out.println("Phuc's output");
    }
 
    public static void mergeConflictArea() {
